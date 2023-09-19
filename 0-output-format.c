@@ -19,7 +19,7 @@ int print_char(va_list types, char buffer[],
 }
 /**
  * print_string - This is to print string
- * @types: Arguments a list 
+ * @types: Arguments a list
  * @buffer: Array of buffer handling pring
  * @flags:  Calculating flags that active
  * @width: The width
